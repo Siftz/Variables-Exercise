@@ -1,0 +1,15 @@
+C:\Users\lakin\repos\Variables-Exercise\Variable Exercise 1\Variable Exercise 1\bin\Debug\net8.0\Variable Exercise 1.exe
+C:\Users\lakin\repos\Variables-Exercise\Variable Exercise 1\Variable Exercise 1\bin\Debug\net8.0\Variable Exercise 1.deps.json
+C:\Users\lakin\repos\Variables-Exercise\Variable Exercise 1\Variable Exercise 1\bin\Debug\net8.0\Variable Exercise 1.runtimeconfig.json
+C:\Users\lakin\repos\Variables-Exercise\Variable Exercise 1\Variable Exercise 1\bin\Debug\net8.0\Variable Exercise 1.dll
+C:\Users\lakin\repos\Variables-Exercise\Variable Exercise 1\Variable Exercise 1\bin\Debug\net8.0\Variable Exercise 1.pdb
+C:\Users\lakin\repos\Variables-Exercise\Variable Exercise 1\Variable Exercise 1\obj\Debug\net8.0\Variable Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakin\repos\Variables-Exercise\Variable Exercise 1\Variable Exercise 1\obj\Debug\net8.0\Variable Exercise 1.AssemblyInfoInputs.cache
+C:\Users\lakin\repos\Variables-Exercise\Variable Exercise 1\Variable Exercise 1\obj\Debug\net8.0\Variable Exercise 1.AssemblyInfo.cs
+C:\Users\lakin\repos\Variables-Exercise\Variable Exercise 1\Variable Exercise 1\obj\Debug\net8.0\Variable Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\lakin\repos\Variables-Exercise\Variable Exercise 1\Variable Exercise 1\obj\Debug\net8.0\Variable Exercise 1.sourcelink.json
+C:\Users\lakin\repos\Variables-Exercise\Variable Exercise 1\Variable Exercise 1\obj\Debug\net8.0\Variable Exercise 1.dll
+C:\Users\lakin\repos\Variables-Exercise\Variable Exercise 1\Variable Exercise 1\obj\Debug\net8.0\refint\Variable Exercise 1.dll
+C:\Users\lakin\repos\Variables-Exercise\Variable Exercise 1\Variable Exercise 1\obj\Debug\net8.0\Variable Exercise 1.pdb
+C:\Users\lakin\repos\Variables-Exercise\Variable Exercise 1\Variable Exercise 1\obj\Debug\net8.0\Variable Exercise 1.genruntimeconfig.cache
+C:\Users\lakin\repos\Variables-Exercise\Variable Exercise 1\Variable Exercise 1\obj\Debug\net8.0\ref\Variable Exercise 1.dll
